@@ -39,7 +39,7 @@ pip install -i https://pypi.tuna.tsinghua.edu.cn/simple docx
 
 [![O6W6FV3NDUWFEVUBJYY.md.png](https://img.xhacgn.com/images/2023/01/06/O6W6FV3NDUWFEVUBJYY.md.png)](https://img.xhacgn.com/image/Z5H1Y)
 
-(1)目前题库比较小，1~3题是选择题，4~6题是填空题，7~9题是判断题
+(1)目前题库比较小，1-3题是选择题，4-6题是填空题，7-9题是判断题
 
 (2)目前填空题暂时无法机器阅卷
 
@@ -51,7 +51,9 @@ pip install -i https://pypi.tuna.tsinghua.edu.cn/simple docx
 * * *
 
 附录：
+
 ①Qt designer部分
+
 界面ui设计——
 
 [![5_JVEFWI5C7PRUGY.md.png](https://img.xhacgn.com/images/2023/01/06/5_JVEFWI5C7PRUGY.md.png)](https://img.xhacgn.com/image/Z5dmP)
