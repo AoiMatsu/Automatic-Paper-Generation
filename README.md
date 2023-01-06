@@ -20,7 +20,9 @@ pyinstaller -F -w ALL.py --hidden-import PySide2.QtXml
 [![2NXU7KPPJ9L40Q.md.png](https://img.xhacgn.com/images/2023/01/06/2NXU7KPPJ9L40Q.md.png)](https://img.xhacgn.com/image/Z59Pw)
 
 ②终端中安装PyQt5与docx库
+
 pip install -i https://pypi.tuna.tsinghua.edu.cn/simple pyqt5
+
 pip install -i https://pypi.tuna.tsinghua.edu.cn/simple docx
 
 ③运行ALL.py代码，进入登录界面
@@ -28,6 +30,7 @@ pip install -i https://pypi.tuna.tsinghua.edu.cn/simple docx
 [![JBDYXYUNO1NGC92BG6.md.png](https://img.xhacgn.com/images/2023/01/06/JBDYXYUNO1NGC92BG6.md.png)](https://img.xhacgn.com/image/Z5E4G)
 
 目前教师端阅卷功能尚未实现，选择学生端，用户名输入：Admin 密码输入：111111
+
 然后根据提示进入答题界面——
 
 [![L8LGTC8R7O43C2ZB.md.png](https://img.xhacgn.com/images/2023/01/06/L8LGTC8R7O43C2ZB.md.png)](https://img.xhacgn.com/image/Z5Fv3)
